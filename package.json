@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-pwmckenna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwmckenna/eslint-config-pwmckenna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwmckenna/eslint-config-pwmckenna/issues"
+  },
+  "homepage": "https://github.com/pwmckenna/eslint-config-pwmckenna#readme"
+}
