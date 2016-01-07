@@ -12,5 +12,10 @@
   "bugs": {
     "url": "https://github.com/pwmckenna/eslint-config-pwmckenna/issues"
   },
-  "homepage": "https://github.com/pwmckenna/eslint-config-pwmckenna#readme"
+  "homepage": "https://github.com/pwmckenna/eslint-config-pwmckenna#readme",
+  "peerDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^3.0.2"
+  }
 }
