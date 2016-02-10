@@ -1,1 +1,1 @@
-module.exports = require('./.babelrc.json');
+module.exports = require('./eslintrc.json');
