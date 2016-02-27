@@ -14,9 +14,9 @@
   },
   "homepage": "https://github.com/pwmckenna/eslint-config-pwmckenna#readme",
   "peerDependencies": {
-    "babel-eslint": "^5.0.0-beta6",
-    "eslint": "^1.10.3",
-    "eslint-config-airbnb": "^4.0.0",
-    "eslint-plugin-react": "^3.16.0"
+    "babel-eslint": "*",
+    "eslint": "*",
+    "eslint-config-airbnb": "*",
+    "eslint-plugin-react": "*"
   }
 }
